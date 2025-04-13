@@ -1,0 +1,49 @@
+Restaurant Management System (RMS) - MVP Feature Requirements
+
+Project Timeline: 1 month
+Target Environment: Free hosting, limited users
+Module: Core Features
+Feature
+Description
+Priority
+User Interface
+User-friendly interface for both staff and customers
+High
+Menu Management
+Add, edit, and categorize menu items with prices
+High
+Table Management
+Manage table availability, reservations, and seating
+High
+Order Management
+Create, track, and manage customer orders
+High
+Billing
+Generate bills, process payments, and track transactions
+High                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+Staff Management
+Basic employee scheduling and role assignment
+High
+Inventory Control
+Track stock levels, generate alerts for low stock items
+High
+Customer Feedback
+Collect customer feedback through simple surveys
+High
+Basic Reporting
+Generate reports on sales and popular items
+High
+Payment Gateways
+Integrate multiple payment gateways for online payments
+High
+Constraints:
+    • Free hosting may impose limitations on storage, bandwidth, or processing power.
+    • Limited user capacity may restrict the number of concurrent users or total registered users.
+Considerations:
+    • Prioritize essential features to meet the 1-month deadline.
+    • Focus on stability, security, and user experience.
+    • Ensure the MVP can be easily scaled and extended for future development.
+Success Metrics:
+    • Successful deployment of the RMS MVP within the 1-month timeframe.
+    • Positive user feedback on usability and functionality.
+    • Stable and secure system performance within the constraints of free hosting.
